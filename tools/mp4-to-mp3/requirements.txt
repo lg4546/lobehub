@@ -1,0 +1,7 @@
+# 本项目仅依赖 Python 标准库 + 系统安装的 FFmpeg
+# 无需额外 pip 依赖
+#
+# 系统依赖:
+#   macOS:   brew install ffmpeg
+#   Ubuntu:  sudo apt install ffmpeg
+#   Windows: https://ffmpeg.org/download.html
